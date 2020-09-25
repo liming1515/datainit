@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+插件的内容在 src/assets/js/index.js
+调用插件的内容在 src/views/index.vue
